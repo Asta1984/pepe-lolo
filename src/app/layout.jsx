@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-    title: "LogFatal",
-    description: "About Retarded LogFatal",
+    title: "Al-und Winchester",
+    description: "Please give me money I am poor",
 };
 
 export default function RootLayout({ children }) {
